@@ -30,7 +30,7 @@ Gruppenname (Kreativität bringt Punkte):\hrulefill
 \\\\
 \\\\
 
-Hallo und herzlich Willkommen im Fachbereich Informatik, um den Fachbereich und die Fachhochschule besser kennen zulernen, haben wir uns diese Challenge überlegt.
+Hallo und herzlich Willkommen im Fachbereich Informatik. Um den Fachbereich und die Fachhochschule besser kennen zulernen, haben wir uns diese Challenge überlegt.
 Auf der Rückseite findet ihr einen Plan, mit dem ihr euch ein wenig orientieren könnt.\\\\
 
 Da die höheren Semeser, vorallem im Fachbereich, Klausuren schreiben, bearbeitet die Challenge bitte in angemessener Lautstärke. Nun aber viel Spaß, ihr solltet euch in Gruppen bis zu 5 Leuten auf den Weg machen und diesen Bogen bis max 13:30 bearbeitet und in eurer Fachschaftsvertretung abgegeben haben. Als ersten Gewinn, gibts leckere Würstchen. Dort prämieren wie auch die Sieger.
