@@ -21,12 +21,15 @@ print '''\\documentclass[a4paper,15pt]{scrartcl}
 \\usepackage[utf8]{inputenc}
 \\usepackage[ngermanb]{babel}
 \\usepackage{geometry}
+\\usepackage{graphicx}
 
-\\geometry{a4paper,left=30mm,right=30mm, top=1cm, bottom=2cm} 
+\\pagestyle{empty}
+\\geometry{a4paper,left=2cm,right=2cm,top=1cm,bottom=2cm} 
 
 \\renewcommand{\\familydefault}{\sfdefault}
 \\begin{document}
-Gruppenname (Kreativität bringt Punkte):\hrulefill
+Gruppenname {\\tiny(Kreativität bringt Punkte)}:\hrulefill
+Studiengang:\hrulefill
 \\\\
 \\\\
 {\huge Erstsemester Rallye Informatik}
@@ -44,5 +47,10 @@ for element in fragen:
 	print "\\item " + element
 
 print '''\end{enumerate}
+
+\\newpage
+\\begin{center}
+	\\includegraphics[scale=3]{karte.jpg}
+\\end{center}
 
 \end{document}'''
