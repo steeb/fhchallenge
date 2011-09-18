@@ -26,14 +26,14 @@ print '''\\documentclass[a4paper,15pt]{scrartcl}
 Gruppenname (Kreativität bringt Punkte):\hrulefill
 \\\\
 \\\\
-{\huge Erstsemester Challenge Informatik}
+{\huge Erstsemester Rallye Informatik}
 \\\\
 \\\\
 
-Hallo und herzlich Willkommen im Fachbereich Informatik. Um den Fachbereich und die Fachhochschule besser kennen zulernen, haben wir uns diese Challenge überlegt.
+Hallo und herzlich Willkommen im Fachbereich Informatik. Um den Fachbereich und die Fachhochschule besser kennen zulernen, haben wir uns diese Rallye überlegt.
 Auf der Rückseite findet ihr einen Plan, mit dem ihr euch ein wenig orientieren könnt.\\\\
 
-Da die höheren Semeser, vorallem im Fachbereich, Klausuren schreiben, bearbeitet die Challenge bitte in angemessener Lautstärke. Nun aber viel Spaß, ihr solltet euch in Gruppen bis zu 5 Leuten auf den Weg machen und diesen Bogen bis max 13:30 bearbeitet und in eurer Fachschaftsvertretung abgegeben haben. Als ersten Gewinn, gibts leckere Würstchen. Dort prämieren wie auch die Sieger.
+Da die höheren Semeser, vorallem im Fachbereich, Klausuren schreiben, bearbeitet die Rallye bitte in angemessener Lautstärke. Nun aber viel Spaß, ihr solltet euch in Gruppen bis zu 5 Leuten auf den Weg machen und diesen Bogen in maximal einer Stunde bearbeitet und in eurer Fachschaftsvertretung abgegeben haben. Als ersten Gewinn, gibts leckere Würstchen. Dort prämieren wie auch die Sieger.
 
 \\begin{enumerate}'''
 
