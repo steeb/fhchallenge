@@ -20,6 +20,9 @@ random.shuffle(fragen)
 print '''\\documentclass[a4paper,15pt]{scrartcl}
 \\usepackage[utf8]{inputenc}
 \\usepackage[ngermanb]{babel}
+\\usepackage{geometry}
+
+\\geometry{a4paper,left=30mm,right=30mm, top=1cm, bottom=2cm} 
 
 \\renewcommand{\\familydefault}{\sfdefault}
 \\begin{document}
