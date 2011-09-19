@@ -3,7 +3,7 @@
 
 import random
 
-fragen=["Geht zum Allgemeinen Studierenden-Ausschuss (AStA) und nehmt von dort einen Aufkleber mit.",
+fragen=["Geht zum Allgemeinen Studierenden-Ausschuss (AStA) und lasst euren Rallyebogen abstempeln.",
 "Geht zum Studierendensekreteriat und bringe einen Antrag auf ... mit.",
 "Geht zum Fitnesskeller, zähle die Lampen an der Decke des Fitnessbereiches.",
 "Geht zum Dekanat des Fachbereiches, wie sind die Öffnungszeiten?",
@@ -11,7 +11,7 @@ fragen=["Geht zum Allgemeinen Studierenden-Ausschuss (AStA) und nehmt von dort e
 "Geht zur Tischtennisplatte, welches Dezernat hat an der TT-Platte einen Hinweis auf Brandschutz angebracht?",
 "Sucht den Grundstein des Neubau 1 und sagt aus welchem Material er ist.",
 "Geht zum eXwerk (D -1.01) und bringt ein Foto des Space Invaders mit.",
-"Wieviel Kaffeespezialitäten bietet euch die helle Kaffemaschine?",
+"Wieviel Kaffeespezialitäten bietet euch die helle Kaffemaschine in der Mensa in Neubau 1?",
 "Wieviele Kopierer/Scanner befinden sich im Untergeschoss der Bibliothek?",
 "Überwelchen Kommunikationskanal kommuniziert die FSV am schnellsten Neuigkeiten?"]
 
